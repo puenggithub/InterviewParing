@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.get.assignment.TestCase" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-03-08T08:29:39" hostname="Paphatsiris-MacBook-Pro.local" time="29.063">
+  <properties/>
+  <testcase name="Testcase01_AddOneTask" classname="com.get.assignment.TestCase" time="4.1"/>
+  <testcase name="Testcase02_AddTwoTasks" classname="com.get.assignment.TestCase" time="7.643"/>
+  <system-out><![CDATA[[Result]: Add task `Book museum tour` - PASSED
+[Result]: Add task `Buy flight tickets to Japan` - PASSED
+[Result]: Add task `Book hotels in Japan` - PASSED
+]]></system-out>
+  <system-err><![CDATA[Mar 08, 2020 3:29:39 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
